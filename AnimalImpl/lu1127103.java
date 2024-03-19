@@ -11,7 +11,7 @@ public class lu1127103 extends Animal implements Talker {
 
     @Override
     public String getAnimalName() {
-        return "Witty Beaver";
+        return "Efficient Seal";
     }
 
     @Override
